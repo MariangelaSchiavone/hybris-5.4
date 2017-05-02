@@ -1,0 +1,11 @@
+INSERT_UPDATE Food;code[unique=true];name[lang=en];description[lang=en]
+;food1;name1;description1
+;food2;name2;description2
+;food3;name3;description3
+;food4;name4;description4
+;food5;name5;description5
+;food6;name6;description6
+;food7;name7;description7
+;food8;name8;description8
+;food9;name9;description9
+;food10;name10;description10

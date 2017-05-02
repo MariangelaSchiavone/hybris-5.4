@@ -1,0 +1,11 @@
+INSERT_UPDATE RecipeEntry;food(code);name[lang=en];quantity[unique=true];unity(code)
+;food1;name1;1;pieces
+;food2;name2;2;pieces
+;food3;name3;3;pieces
+;food4;name4;4;pieces
+;food5;name5;5;pieces
+;food6;name6;6;pieces
+;food7;name7;7;pieces
+;food8;name8;8;pieces
+;food9;name9;9;pieces
+;food10;name10;10;pieces

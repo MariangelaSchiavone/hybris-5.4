@@ -1,0 +1,11 @@
+INSERT_UPDATE Recipe;code[unique=true];name[lang=en];description[lang=en];time;difficult(code);people;RecipeEntry(quantity)
+					;recipe1;name1;description1;10;low;1;1,2,3,4
+					;recipe2;name2;description2;20;low;2;1,2,3,4
+					;recipe3;name3;description3;30;low;3;1,2,3,4
+					;recipe4;name4;description4;40;medium;4;1,2,3,4
+					;recipe5;name5;description5;50;medium;5;1,2,3,4
+					;recipe6;name6;description6;60;medium;6;1,2,3,4
+					;recipe7;name7;description7;70;high;7;1,2,3,4
+					;recipe8;name8;description8;80;high;8;1,2,3,4
+					;recipe9;name9;description9;90;high;9;1,2,3,4
+					;recipe10;name10;description10;100;high;10;1,2,3,4
