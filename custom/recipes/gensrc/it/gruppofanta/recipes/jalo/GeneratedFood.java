@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at 2-mag-2017 17.50.44                         ---
+ * --- Generated at 3-mag-2017 16.28.05                         ---
  * ----------------------------------------------------------------
  */
 package it.gruppofanta.recipes.jalo;

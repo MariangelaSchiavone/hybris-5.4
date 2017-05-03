@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
- * --- Generated at 2-mag-2017 17.50.44                         ---
+ * --- Generated at 3-mag-2017 16.28.05                         ---
  * ----------------------------------------------------------------
  */
 package it.gruppofanta.recipes.constants;
@@ -18,6 +18,7 @@ public class GeneratedRecipesConstants
 	{
 		public static final String DIFFICULTENUM = "DifficultEnum".intern();
 		public static final String FOOD = "Food".intern();
+		public static final String MENU = "Menu".intern();
 		public static final String RECIPE = "Recipe".intern();
 		public static final String RECIPEENTRY = "RecipeEntry".intern();
 	}
@@ -36,6 +37,7 @@ public class GeneratedRecipesConstants
 	}
 	public static class Relations
 	{
+		public static final String MENURECIPERELATION = "MenuRecipeRelation".intern();
 		public static final String RECIPEFOODRELATION = "RecipeFoodRelation".intern();
 	}
 	
